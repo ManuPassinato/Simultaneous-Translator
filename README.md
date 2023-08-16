@@ -10,6 +10,8 @@ Seguir os passos de instalação do https://github.com/mallorbc/whisper_mic
 
 Seguir os passos de instalação do CoquiTTS https://github.com/coqui-ai/TTS
 
+Caso não consiga instalar o TTS (em maquina windows pode dar problema) recomendo baixar o projeto inteiro e colocar o tradutor simultaneo dentro.
+
 Para executar o arquivo, abra o cmd do Windows ou o promp de comando do Linux. Vá até a pasta em que progra está instaldo e execute o arquivo projeto.py utilizando o comando:
 
-> python .\projeto.py
+> python .\main.py
